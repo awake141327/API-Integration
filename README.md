@@ -1,6 +1,6 @@
-# Cloudify-Assignment-2
+# API Integration
 
-Create integration between Shopify & Pipedrive
+Create API integration between Shopify & Pipedrive
 
 # Skills Used
 
